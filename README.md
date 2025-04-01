@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Azure DevOps 
+🌱 DevOps Engineer 
 
 
 # 💻 Tech Stack:
